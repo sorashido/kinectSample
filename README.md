@@ -1,13 +1,13 @@
 # KinectSample
-kinect v2の簡単なサンプルプログラム。
-depth, color, depth to colorを自分なりに分かりやすく整理して書いています。
+kinect v2
+depth, color, depth to color
 
-## 環境
+## env
 windows10
 opencv2.4.11
 kinect sdk2.0
 
-## 仕様
+## demo
 ### 1.depth
 <img src="image/depth_R.jpg" alt="sample" width="300">
 
