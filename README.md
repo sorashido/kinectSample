@@ -7,7 +7,7 @@ windows10
 opencv2.4.11
 kinect sdk2.0
 
-## demo
+<!-- ## demo
 ### 1.depth
 <img src="image/depth_R.jpg" alt="sample" width="300">
 
@@ -16,3 +16,4 @@ kinect sdk2.0
 
 ### 3.depth to color
 <img src="image/dept2color_R.jpg" alt="sample" width="300">
+ -->
